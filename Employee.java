@@ -1,5 +1,5 @@
 public class Employee{
 
-	int eid;
+	double esalary;
 	String ename;
 }
